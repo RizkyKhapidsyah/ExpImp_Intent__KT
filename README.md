@@ -7,4 +7,4 @@ Reference: Dicoding, Modified by Rizky Khapidsyah (for Curriculum state)<br><br>
 <img src="https://github.com/RizkyKhapidsyah/ExpImp_Intent__KT/blob/master/results/Screenshot_20190907-151911.png" height=400px width=200px>
 <img src="https://github.com/RizkyKhapidsyah/ExpImp_Intent__KT/blob/master/results/Screenshot_20190907-151918.png" height=400px width=200px><br><br>
 Lihat <a href="https://github.com/RizkyKhapidsyah/ExpImp_Intent__KT/tree/master/app/src/main/java/com/rizkykhapidsyah/expimp_intent__kt">Source Code.</a><br><br>
-Atau <a href="https://github.com/RizkyKhapidsyah/ExpImp_Intent__JV">Lihat Dalam Versi Java Original</a>
+Atau <a href="https://github.com/RizkyKhapidsyah/ExpImp_Intent__JV">Lihat Dalam Versi Java Original.</a>
